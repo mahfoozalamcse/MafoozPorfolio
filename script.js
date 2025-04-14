@@ -1,5 +1,5 @@
 function scrollToContact() {
-    document.getElementById('contact').scrollIntoView({ behavior: 'smooth' });
+    document.getElementById('contact').scrollIntoView({ behavior: 'smooth' }); 
   }
   
   // Optional: Handle contact form submission
